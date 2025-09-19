@@ -1,7 +1,9 @@
 @use "reset.scss";
+@use "fonts.scss";
 
 body {
-  font-family: sans-serif;
+  font-family: "Exo2", sans-serif;
+  font-weight: normal;
   font-size: 16px;
   line-height: 1.6;
 }
